@@ -1,0 +1,1873 @@
+================================================================================
+STOCK ANALYSIS REPORT
+Generated: 2026-03-18 11:55:58
+================================================================================
+
+RECOMMENDATION SUMMARY
+----------------------------------------
+STRONG BUY: AAPL, GOOGL, JPM, JNJ, PG, KO, PEP, MRK, GS, MS, MCD, F, GM, VZ, NEE, DUK, SO, SPY, IWM, VTI
+BUY: NVDA, TSLA, V, XOM, CVX, HD, PFE, WMT, COST, DIS, CAT, INTC, SBUX, T, QQQ, GLD
+HOLD: MSFT, META, ABBV, BA, AMD, ORCL
+SELL: AMZN, UNH, NFLX, CRM, IBM, NKE
+N/A: BRK.B
+
+SECTOR BREAKDOWN
+----------------------------------------
+
+Communication Services (4 stocks)
+  DIS    $     99.77  BUY          MODERATE  
+  NFLX   $     95.00  SELL         HIGH      
+  T      $     27.62  BUY          MODERATE  
+  VZ     $     49.71  STRONG BUY   MODERATE  
+
+Consumer Cyclical (8 stocks)
+  AMZN   $    211.02  SELL         MODERATE  
+  TSLA   $    397.71  BUY          HIGH      
+  HD     $    334.93  BUY          MODERATE  
+  NKE    $     53.92  SELL         HIGH      
+  MCD    $    320.61  STRONG BUY   LOW       
+  SBUX   $     95.30  BUY          MODERATE  
+  F      $     11.94  STRONG BUY   HIGH      
+  GM     $     74.32  STRONG BUY   MODERATE  
+
+Consumer Defensive (5 stocks)
+  PG     $    148.16  STRONG BUY   LOW       
+  KO     $     76.67  STRONG BUY   MODERATE  
+  PEP    $    155.43  STRONG BUY   MODERATE  
+  WMT    $    123.20  BUY          MODERATE  
+  COST   $    988.95  BUY          MODERATE  
+
+ETF (5 stocks)
+  SPY    $    667.08  STRONG BUY   LOW       
+  QQQ    $    600.15  BUY          MODERATE  
+  IWM    $    248.58  STRONG BUY   LOW       
+  VTI    $    328.82  STRONG BUY   LOW       
+  GLD    $    449.12  BUY          MODERATE  
+
+Energy (2 stocks)
+  XOM    $    159.62  BUY          MODERATE  
+  CVX    $    200.32  BUY          MODERATE  
+
+Financial Services (5 stocks)
+  JPM    $    288.30  STRONG BUY   MODERATE  
+  V      $    301.84  BUY          LOW       
+  GS     $    811.22  STRONG BUY   MODERATE  
+  MS     $    159.45  STRONG BUY   MODERATE  
+  BRK.B          N/A  N/A          N/A       
+
+Healthcare (5 stocks)
+  JNJ    $    237.80  STRONG BUY   LOW       
+  UNH    $    286.67  SELL         MODERATE  
+  MRK    $    114.44  STRONG BUY   MODERATE  
+  ABBV   $    209.70  HOLD         MODERATE  
+  PFE    $     27.24  BUY          LOW       
+
+Industrials (2 stocks)
+  BA     $    207.59  HOLD         HIGH      
+  CAT    $    706.50  BUY          HIGH      
+
+Technology (10 stocks)
+  AAPL   $    251.08  STRONG BUY   HIGH      
+  MSFT   $    393.77  HOLD         MODERATE  
+  GOOGL  $    310.22  STRONG BUY   LOW       
+  NVDA   $    182.60  BUY          HIGH      
+  META   $    618.57  HOLD         MODERATE  
+  AMD    $    199.97  HOLD         HIGH      
+  INTC   $     45.06  BUY          MODERATE  
+  CRM    $    194.29  SELL         MODERATE  
+  ORCL   $    153.12  HOLD         HIGH      
+  IBM    $    253.71  SELL         MODERATE  
+
+Utilities (3 stocks)
+  NEE    $     91.22  STRONG BUY   MODERATE  
+  DUK    $    131.88  STRONG BUY   MODERATE  
+  SO     $     97.30  STRONG BUY   MODERATE  
+
+================================================================================
+DETAILED ANALYSIS
+================================================================================
+
+
+============================================================
+AAPL - Apple Inc.
+============================================================
+Sector: Technology | Industry: Consumer Electronics
+Analysis Date: 2026-03-18 11:55:23
+
+PRICE DATA
+  Current Price: $251.08
+  52-Week Range: $169.21 - $288.62
+  Volume: 11,720,220 (Avg: 47,466,349)
+  Market Cap: $3,690.36B
+
+TECHNICAL INDICATORS
+  SMA 20/50/200: 261.46 / 261.56 / 245.99
+  RSI (14): 21.16
+  30-Day Volatility: 27.02%
+  Beta: 1.116
+
+FUNDAMENTALS
+  P/E Ratio: 31.7421 (Forward: 26.936766)
+  PEG Ratio: N/A
+  P/B Ratio: 41.86062
+  Dividend Yield: 41.0%
+  Profit Margin: 27.04%
+  ROE: 152.02%
+  D/E Ratio: 102.63
+
+PERFORMANCE
+  1D: N/A% | 5D: -1.83% | 1M: -5.02%
+  3M: -8.48% | 6M: 5.26% | YTD: -7.27%
+  1Y: 18.56%
+
+RECOMMENDATION
+  Rating: STRONG BUY
+  Risk Level: HIGH
+  Summary: Apple Inc. (AAPL) - Technology. RSI indicates oversold conditions Golden cross pattern (50 SMA > 200 SMA) Attractive dividend yield (41.0%). Risk factors: Moderate volatility, High P/E ratio.
+
+============================================================
+MSFT - Microsoft Corporation
+============================================================
+Sector: Technology | Industry: Software - Infrastructure
+Analysis Date: 2026-03-18 11:55:24
+
+PRICE DATA
+  Current Price: $393.77
+  52-Week Range: $344.79 - $555.45
+  Volume: 9,887,128 (Avg: 34,185,491)
+  Market Cap: $2,926.46B
+
+TECHNICAL INDICATORS
+  SMA 20/50/200: 400.11 / 424.03 / 480.54
+  RSI (14): 42.57
+  30-Day Volatility: 26.96%
+  Beta: 1.108
+
+FUNDAMENTALS
+  P/E Ratio: 24.639862 (Forward: 20.89497)
+  PEG Ratio: N/A
+  P/B Ratio: 7.483512
+  Dividend Yield: 91.0%
+  Profit Margin: 39.04%
+  ROE: 34.39%
+  D/E Ratio: 31.539
+
+PERFORMANCE
+  1D: N/A% | 5D: -2.01% | 1M: -1.23%
+  3M: -17.15% | 6M: -22.47% | YTD: -16.55%
+  1Y: 3.46%
+
+RECOMMENDATION
+  Rating: HOLD
+  Risk Level: MODERATE
+  Summary: Microsoft Corporation (MSFT) - Technology. Trading below 50-day SMA Death cross pattern (50 SMA < 200 SMA) Attractive dividend yield (91.0%). Risk factors: Moderate volatility.
+
+============================================================
+GOOGL - Alphabet Inc.
+============================================================
+Sector: Technology | Industry: Internet Content & Information
+Analysis Date: 2026-03-18 11:55:24
+
+PRICE DATA
+  Current Price: $310.22
+  52-Week Range: $140.53 - $349.00
+  Volume: 9,269,818 (Avg: 33,029,930)
+  Market Cap: $3,752.79B
+
+TECHNICAL INDICATORS
+  SMA 20/50/200: 306.85 / 318.4 / 258.19
+  RSI (14): 53.49
+  30-Day Volatility: 23.4%
+  Beta: 1.112
+
+FUNDAMENTALS
+  P/E Ratio: 28.671444 (Forward: 23.113914)
+  PEG Ratio: N/A
+  P/B Ratio: 9.030507
+  Dividend Yield: 27.0%
+  Profit Margin: 32.81%
+  ROE: 35.71%
+  D/E Ratio: 16.133
+
+PERFORMANCE
+  1D: N/A% | 5D: 2.2% | 1M: 2.34%
+  3M: 1.26% | 6M: 24.49% | YTD: -1.5%
+  1Y: 93.75%
+
+RECOMMENDATION
+  Rating: STRONG BUY
+  Risk Level: LOW
+  Summary: Alphabet Inc. (GOOGL) - Technology. Golden cross pattern (50 SMA > 200 SMA) Attractive dividend yield (27.0%) Strong profit margins. 
+
+============================================================
+AMZN - Amazon.com Inc.
+============================================================
+Sector: Consumer Cyclical | Industry: Internet Retail
+Analysis Date: 2026-03-18 11:55:25
+
+PRICE DATA
+  Current Price: $211.02
+  52-Week Range: $161.38 - $258.60
+  Volume: 15,818,544 (Avg: 49,043,337)
+  Market Cap: $2,265.28B
+
+TECHNICAL INDICATORS
+  SMA 20/50/200: 210.95 / 222.26 / 224.81
+  RSI (14): 53.93
+  30-Day Volatility: 32.28%
+  Beta: 1.42
+
+FUNDAMENTALS
+  P/E Ratio: 29.430964 (Forward: 22.588673)
+  PEG Ratio: N/A
+  P/B Ratio: 5.5087976
+  Dividend Yield: N/A%
+  Profit Margin: 10.83%
+  ROE: 22.29%
+  D/E Ratio: 43.435
+
+PERFORMANCE
+  1D: N/A% | 5D: 0.71% | 1M: 3.04%
+  3M: -5.19% | 6M: -8.89% | YTD: -6.83%
+  1Y: 9.44%
+
+RECOMMENDATION
+  Rating: SELL
+  Risk Level: MODERATE
+  Summary: Amazon.com Inc. (AMZN) - Consumer Cyclical. Trading below 50-day SMA Death cross pattern (50 SMA < 200 SMA). Risk factors: Moderate volatility.
+
+============================================================
+NVDA - NVIDIA Corporation
+============================================================
+Sector: Technology | Industry: Semiconductors
+Analysis Date: 2026-03-18 11:55:25
+
+PRICE DATA
+  Current Price: $182.60
+  52-Week Range: $86.62 - $212.19
+  Volume: 82,717,685 (Avg: 175,928,884)
+  Market Cap: $4,437.97B
+
+TECHNICAL INDICATORS
+  SMA 20/50/200: 184.55 / 185.14 / 178.06
+  RSI (14): 47.36
+  30-Day Volatility: 40.17%
+  Beta: 2.375
+
+FUNDAMENTALS
+  P/E Ratio: 37.340492 (Forward: 16.584213)
+  PEG Ratio: N/A
+  P/B Ratio: 28.213072
+  Dividend Yield: 2.0%
+  Profit Margin: 55.6%
+  ROE: 101.48%
+  D/E Ratio: 7.255
+
+PERFORMANCE
+  1D: N/A% | 5D: -0.29% | 1M: -2.86%
+  3M: 2.75% | 6M: 7.24% | YTD: -3.3%
+  1Y: 58.23%
+
+RECOMMENDATION
+  Rating: BUY
+  Risk Level: HIGH
+  Summary: NVIDIA Corporation (NVDA) - Technology. Golden cross pattern (50 SMA > 200 SMA) Strong profit margins Strong 1-year return (58.23%). Risk factors: High volatility, High beta (more volatile than market).
+
+============================================================
+META - Meta Platforms Inc.
+============================================================
+Sector: Technology | Industry: Internet Content & Information
+Analysis Date: 2026-03-18 11:55:26
+
+PRICE DATA
+  Current Price: $618.57
+  52-Week Range: $479.80 - $796.25
+  Volume: 5,392,444 (Avg: 14,916,844)
+  Market Cap: $1,564.71B
+
+TECHNICAL INDICATORS
+  SMA 20/50/200: 644.26 / 651.72 / 690.12
+  RSI (14): 34.9
+  30-Day Volatility: 27.07%
+  Beta: 1.279
+
+FUNDAMENTALS
+  P/E Ratio: 26.355774 (Forward: 17.239965)
+  PEG Ratio: N/A
+  P/B Ratio: 7.2038155
+  Dividend Yield: 34.0%
+  Profit Margin: 30.08%
+  ROE: 30.24%
+  D/E Ratio: 39.164
+
+PERFORMANCE
+  1D: N/A% | 5D: -2.99% | 1M: -3.75%
+  3M: -5.79% | 6M: -20.07% | YTD: -4.81%
+  1Y: 6.55%
+
+RECOMMENDATION
+  Rating: HOLD
+  Risk Level: MODERATE
+  Summary: Meta Platforms Inc. (META) - Technology. Trading below 50-day SMA Death cross pattern (50 SMA < 200 SMA) Attractive dividend yield (34.0%). Risk factors: Moderate volatility.
+
+============================================================
+TSLA - Tesla Inc.
+============================================================
+Sector: Consumer Cyclical | Industry: Auto Manufacturers
+Analysis Date: 2026-03-18 11:55:26
+
+PRICE DATA
+  Current Price: $397.71
+  52-Week Range: $214.25 - $498.83
+  Volume: 28,558,585 (Avg: 61,640,223)
+  Market Cap: $1,492.38B
+
+TECHNICAL INDICATORS
+  SMA 20/50/200: 402.48 / 417.71 / 394.1
+  RSI (14): 43.02
+  30-Day Volatility: 31.3%
+  Beta: 1.926
+
+FUNDAMENTALS
+  P/E Ratio: 368.24997 (Forward: 141.51215)
+  PEG Ratio: N/A
+  P/B Ratio: 18.162762
+  Dividend Yield: N/A%
+  Profit Margin: 4.0%
+  ROE: 4.93%
+  D/E Ratio: 17.763
+
+PERFORMANCE
+  1D: N/A% | 5D: 0.68% | 1M: -3.31%
+  3M: -18.81% | 6M: -6.61% | YTD: -9.21%
+  1Y: 76.52%
+
+RECOMMENDATION
+  Rating: BUY
+  Risk Level: HIGH
+  Summary: Tesla Inc. (TSLA) - Consumer Cyclical. Golden cross pattern (50 SMA > 200 SMA) Strong 1-year return (76.52%). Risk factors: Moderate volatility, High beta (more volatile than market).
+
+============================================================
+JPM - JPMorgan Chase & Co.
+============================================================
+Sector: Financial Services | Industry: Banks - Diversified
+Analysis Date: 2026-03-18 11:55:27
+
+PRICE DATA
+  Current Price: $288.30
+  52-Week Range: $202.16 - $337.25
+  Volume: 2,809,106 (Avg: 10,846,138)
+  Market Cap: $777.55B
+
+TECHNICAL INDICATORS
+  SMA 20/50/200: 294.88 / 304.98 / 299.31
+  RSI (14): 24.48
+  30-Day Volatility: 25.39%
+  Beta: 1.059
+
+FUNDAMENTALS
+  P/E Ratio: 14.400599 (Forward: 12.272096)
+  PEG Ratio: N/A
+  P/B Ratio: 2.2702932
+  Dividend Yield: 209.0%
+  Profit Margin: 33.91%
+  ROE: 16.13%
+  D/E Ratio: N/A
+
+PERFORMANCE
+  1D: N/A% | 5D: 1.91% | 1M: -6.63%
+  3M: -8.22% | 6M: -6.65% | YTD: -11.02%
+  1Y: 25.21%
+
+RECOMMENDATION
+  Rating: STRONG BUY
+  Risk Level: MODERATE
+  Summary: JPMorgan Chase & Co. (JPM) - Financial Services. RSI indicates oversold conditions Trading below 50-day SMA Golden cross pattern (50 SMA > 200 SMA). Risk factors: Moderate volatility.
+
+============================================================
+V - Visa Inc.
+============================================================
+Sector: Financial Services | Industry: Credit Services
+Analysis Date: 2026-03-18 11:55:28
+
+PRICE DATA
+  Current Price: $301.84
+  52-Week Range: $299.00 - $375.51
+  Volume: 2,538,413 (Avg: 7,726,828)
+  Market Cap: $581.96B
+
+TECHNICAL INDICATORS
+  SMA 20/50/200: 313.79 / 323.67 / 338.89
+  RSI (14): 25.51
+  30-Day Volatility: 21.98%
+  Beta: 0.791
+
+FUNDAMENTALS
+  P/E Ratio: 28.36847 (Forward: 20.761648)
+  PEG Ratio: N/A
+  P/B Ratio: 15.066413
+  Dividend Yield: 87.0%
+  Profit Margin: 50.23%
+  ROE: 53.95%
+  D/E Ratio: 54.612
+
+PERFORMANCE
+  1D: N/A% | 5D: -1.52% | 1M: -5.76%
+  3M: -12.36% | 6M: -12.46% | YTD: -12.7%
+  1Y: -9.16%
+
+RECOMMENDATION
+  Rating: BUY
+  Risk Level: LOW
+  Summary: Visa Inc. (V) - Financial Services. RSI indicates oversold conditions Trading below 50-day SMA Death cross pattern (50 SMA < 200 SMA). 
+
+============================================================
+JNJ - Johnson & Johnson
+============================================================
+Sector: Healthcare | Industry: Drug Manufacturers - General
+Analysis Date: 2026-03-18 11:55:29
+
+PRICE DATA
+  Current Price: $237.80
+  52-Week Range: $141.50 - $251.71
+  Volume: 2,503,572 (Avg: 8,783,986)
+  Market Cap: $573.07B
+
+TECHNICAL INDICATORS
+  SMA 20/50/200: 243.36 / 232.15 / 191.83
+  RSI (14): 39.63
+  30-Day Volatility: 16.41%
+  Beta: 0.326
+
+FUNDAMENTALS
+  P/E Ratio: 21.578947 (Forward: 18.916403)
+  PEG Ratio: N/A
+  P/B Ratio: 7.021999
+  Dividend Yield: 218.0%
+  Profit Margin: 28.46%
+  ROE: 35.03%
+  D/E Ratio: 60.499
+
+PERFORMANCE
+  1D: N/A% | 5D: -1.75% | 1M: -2.42%
+  3M: 14.22% | 6M: 35.77% | YTD: 15.29%
+  1Y: 48.81%
+
+RECOMMENDATION
+  Rating: STRONG BUY
+  Risk Level: LOW
+  Summary: Johnson & Johnson (JNJ) - Healthcare. Golden cross pattern (50 SMA > 200 SMA) Low beta (defensive stock) Attractive dividend yield (218.0%). 
+
+============================================================
+UNH - UnitedHealth Group Inc.
+============================================================
+Sector: Healthcare | Industry: Healthcare Plans
+Analysis Date: 2026-03-18 11:55:30
+
+PRICE DATA
+  Current Price: $286.67
+  52-Week Range: $234.60 - $606.36
+  Volume: 1,373,607 (Avg: 9,061,445)
+  Market Cap: $260.20B
+
+TECHNICAL INDICATORS
+  SMA 20/50/200: 284.84 / 299.27 / 310.01
+  RSI (14): 52.3
+  30-Day Volatility: 30.08%
+  Beta: 0.38
+
+FUNDAMENTALS
+  P/E Ratio: 21.66817 (Forward: 14.396559)
+  PEG Ratio: N/A
+  P/B Ratio: 2.759785
+  Dividend Yield: 307.0%
+  Profit Margin: 2.69%
+  ROE: 12.54%
+  D/E Ratio: 81.618
+
+PERFORMANCE
+  1D: N/A% | 5D: 3.47% | 1M: 0.24%
+  3M: -13.56% | 6M: -14.86% | YTD: -14.12%
+  1Y: -41.49%
+
+RECOMMENDATION
+  Rating: SELL
+  Risk Level: MODERATE
+  Summary: UnitedHealth Group Inc. (UNH) - Healthcare. Death cross pattern (50 SMA < 200 SMA) Low beta (defensive stock) Attractive dividend yield (307.0%). Risk factors: Moderate volatility, Weak 1-year return (-41.49%).
+
+============================================================
+PG - Procter & Gamble Co.
+============================================================
+Sector: Consumer Defensive | Industry: Household & Personal Products
+Analysis Date: 2026-03-18 11:55:31
+
+PRICE DATA
+  Current Price: $148.16
+  52-Week Range: $137.62 - $174.80
+  Volume: 3,285,183 (Avg: 10,775,935)
+  Market Cap: $346.77B
+
+TECHNICAL INDICATORS
+  SMA 20/50/200: 157.54 / 153.21 / 151.51
+  RSI (14): 24.43
+  30-Day Volatility: 22.28%
+  Beta: 0.34
+
+FUNDAMENTALS
+  P/E Ratio: 21.91716 (Forward: 20.210949)
+  PEG Ratio: N/A
+  P/B Ratio: 6.5869384
+  Dividend Yield: 279.0%
+  Profit Margin: 19.3%
+  ROE: 31.56%
+  D/E Ratio: 68.719
+
+PERFORMANCE
+  1D: N/A% | 5D: -1.55% | 1M: -5.55%
+  3M: 2.76% | 6M: -6.28% | YTD: 5.23%
+  1Y: -9.23%
+
+RECOMMENDATION
+  Rating: STRONG BUY
+  Risk Level: LOW
+  Summary: Procter & Gamble Co. (PG) - Consumer Defensive. RSI indicates oversold conditions Golden cross pattern (50 SMA > 200 SMA) Low beta (defensive stock). 
+
+============================================================
+XOM - Exxon Mobil Corporation
+============================================================
+Sector: Energy | Industry: Oil & Gas Integrated
+Analysis Date: 2026-03-18 11:55:32
+
+PRICE DATA
+  Current Price: $159.62
+  52-Week Range: $97.80 - $160.45
+  Volume: 7,159,734 (Avg: 20,579,062)
+  Market Cap: $665.10B
+
+TECHNICAL INDICATORS
+  SMA 20/50/200: 152.08 / 142.95 / 119.13
+  RSI (14): 71.27
+  30-Day Volatility: 26.13%
+  Beta: 0.348
+
+FUNDAMENTALS
+  P/E Ratio: 23.823881 (Forward: 18.452667)
+  PEG Ratio: N/A
+  P/B Ratio: 2.571654
+  Dividend Yield: 259.0%
+  Profit Margin: 8.9%
+  ROE: 11.08%
+  D/E Ratio: 18.936
+
+PERFORMANCE
+  1D: N/A% | 5D: 3.97% | 1M: 5.93%
+  3M: 40.12% | 6M: 40.59% | YTD: 31.01%
+  1Y: 45.29%
+
+RECOMMENDATION
+  Rating: BUY
+  Risk Level: MODERATE
+  Summary: Exxon Mobil Corporation (XOM) - Energy. RSI indicates overbought conditions Trading above 50-day SMA Golden cross pattern (50 SMA > 200 SMA). Risk factors: Moderate volatility.
+
+============================================================
+CVX - Chevron Corporation
+============================================================
+Sector: Energy | Industry: Oil & Gas Integrated
+Analysis Date: 2026-03-18 11:55:33
+
+PRICE DATA
+  Current Price: $200.32
+  52-Week Range: $132.04 - $200.58
+  Volume: 4,893,802 (Avg: 11,797,577)
+  Market Cap: $400.52B
+
+TECHNICAL INDICATORS
+  SMA 20/50/200: 189.74 / 178.04 / 156.22
+  RSI (14): 76.15
+  30-Day Volatility: 19.77%
+  Beta: 0.658
+
+FUNDAMENTALS
+  P/E Ratio: 30.214931 (Forward: 21.371258)
+  PEG Ratio: N/A
+  P/B Ratio: 2.1276088
+  Dividend Yield: 360.0%
+  Profit Margin: 6.66%
+  ROE: 7.23%
+  D/E Ratio: 24.323
+
+PERFORMANCE
+  1D: N/A% | 5D: 1.7% | 1M: 8.95%
+  3M: 37.84% | 6M: 27.77% | YTD: 29.75%
+  1Y: 30.18%
+
+RECOMMENDATION
+  Rating: BUY
+  Risk Level: MODERATE
+  Summary: Chevron Corporation (CVX) - Energy. RSI indicates overbought conditions Trading above 50-day SMA Golden cross pattern (50 SMA > 200 SMA). Risk factors: High P/E ratio.
+
+============================================================
+HD - The Home Depot Inc.
+============================================================
+Sector: Consumer Cyclical | Industry: Home Improvement Retail
+Analysis Date: 2026-03-18 11:55:33
+
+PRICE DATA
+  Current Price: $334.93
+  52-Week Range: $326.31 - $426.75
+  Volume: 1,165,294 (Avg: 4,171,457)
+  Market Cap: $333.43B
+
+TECHNICAL INDICATORS
+  SMA 20/50/200: 360.09 / 369.7 / 370.94
+  RSI (14): 22.15
+  30-Day Volatility: 22.46%
+  Beta: 1.044
+
+FUNDAMENTALS
+  P/E Ratio: 23.520365 (Forward: 20.533365)
+  PEG Ratio: N/A
+  P/B Ratio: 25.95753
+  Dividend Yield: 273.0%
+  Profit Margin: 8.6%
+  ROE: 145.54%
+  D/E Ratio: 510.029
+
+PERFORMANCE
+  1D: N/A% | 5D: -1.18% | 1M: -12.09%
+  3M: -4.4% | 6M: -18.62% | YTD: -2.5%
+  1Y: -1.77%
+
+RECOMMENDATION
+  Rating: BUY
+  Risk Level: MODERATE
+  Summary: The Home Depot Inc. (HD) - Consumer Cyclical. RSI indicates oversold conditions Trading below 50-day SMA Death cross pattern (50 SMA < 200 SMA). Risk factors: High debt-to-equity ratio.
+
+============================================================
+KO - The Coca-Cola Company
+============================================================
+Sector: Consumer Defensive | Industry: Beverages - Non-Alcoholic
+Analysis Date: 2026-03-18 11:55:34
+
+PRICE DATA
+  Current Price: $76.67
+  52-Week Range: $65.35 - $82.00
+  Volume: 4,763,397 (Avg: 17,920,850)
+  Market Cap: $329.80B
+
+TECHNICAL INDICATORS
+  SMA 20/50/200: 78.3 / 75.47 / 70.09
+  RSI (14): 30.83
+  30-Day Volatility: 16.16%
+  Beta: 0.332
+
+FUNDAMENTALS
+  P/E Ratio: 25.220394 (Forward: 22.12111)
+  PEG Ratio: N/A
+  P/B Ratio: 10.252741
+  Dividend Yield: 266.0%
+  Profit Margin: 27.34%
+  ROE: 43.32%
+  D/E Ratio: 139.793
+
+PERFORMANCE
+  1D: N/A% | 5D: -0.53% | 1M: -2.88%
+  3M: 9.7% | 6M: 15.96% | YTD: 11.69%
+  1Y: 13.71%
+
+RECOMMENDATION
+  Rating: STRONG BUY
+  Risk Level: MODERATE
+  Summary: The Coca-Cola Company (KO) - Consumer Defensive. Golden cross pattern (50 SMA > 200 SMA) Low beta (defensive stock) Attractive dividend yield (266.0%). Risk factors: High debt-to-equity ratio.
+
+============================================================
+PEP - PepsiCo Inc.
+============================================================
+Sector: Consumer Defensive | Industry: Beverages - Non-Alcoholic
+Analysis Date: 2026-03-18 11:55:35
+
+PRICE DATA
+  Current Price: $155.43
+  52-Week Range: $127.60 - $171.48
+  Volume: 1,696,476 (Avg: 8,083,898)
+  Market Cap: $212.52B
+
+TECHNICAL INDICATORS
+  SMA 20/50/200: 162.24 / 155.92 / 143.85
+  RSI (14): 25.18
+  30-Day Volatility: 20.16%
+  Beta: 0.375
+
+FUNDAMENTALS
+  P/E Ratio: 25.947414 (Forward: 17.020044)
+  PEG Ratio: N/A
+  P/B Ratio: 10.411642
+  Dividend Yield: 364.0%
+  Profit Margin: 8.77%
+  ROE: 42.85%
+  D/E Ratio: 258.081
+
+PERFORMANCE
+  1D: N/A% | 5D: -2.16% | 1M: -4.61%
+  3M: 4.29% | 6M: 12.12% | YTD: 10.25%
+  1Y: 8.5%
+
+RECOMMENDATION
+  Rating: STRONG BUY
+  Risk Level: MODERATE
+  Summary: PepsiCo Inc. (PEP) - Consumer Defensive. RSI indicates oversold conditions Golden cross pattern (50 SMA > 200 SMA) Low beta (defensive stock). Risk factors: High debt-to-equity ratio.
+
+============================================================
+MRK - Merck & Co. Inc.
+============================================================
+Sector: Healthcare | Industry: Drug Manufacturers - General
+Analysis Date: 2026-03-18 11:55:35
+
+PRICE DATA
+  Current Price: $114.44
+  52-Week Range: $73.31 - $125.14
+  Volume: 2,814,065 (Avg: 12,413,427)
+  Market Cap: $282.94B
+
+TECHNICAL INDICATORS
+  SMA 20/50/200: 118.18 / 114.64 / 92.77
+  RSI (14): 39.35
+  30-Day Volatility: 25.49%
+  Beta: 0.264
+
+FUNDAMENTALS
+  P/E Ratio: 15.71978 (Forward: 11.704089)
+  PEG Ratio: N/A
+  P/B Ratio: 5.383385
+  Dividend Yield: 293.0%
+  Profit Margin: 28.08%
+  ROE: 36.88%
+  D/E Ratio: 95.959
+
+PERFORMANCE
+  1D: N/A% | 5D: -0.54% | 1M: -5.24%
+  3M: 17.32% | 6M: 43.3% | YTD: 8.3%
+  1Y: 25.21%
+
+RECOMMENDATION
+  Rating: STRONG BUY
+  Risk Level: MODERATE
+  Summary: Merck & Co. Inc. (MRK) - Healthcare. Golden cross pattern (50 SMA > 200 SMA) Low beta (defensive stock) Attractive dividend yield (293.0%). Risk factors: Moderate volatility.
+
+============================================================
+ABBV - AbbVie Inc.
+============================================================
+Sector: Healthcare | Industry: Drug Manufacturers - General
+Analysis Date: 2026-03-18 11:55:36
+
+PRICE DATA
+  Current Price: $209.70
+  52-Week Range: $164.39 - $244.81
+  Volume: 3,351,528 (Avg: 6,784,347)
+  Market Cap: $370.79B
+
+TECHNICAL INDICATORS
+  SMA 20/50/200: 226.78 / 223.78 / 212.82
+  RSI (14): 32.84
+  30-Day Volatility: 28.08%
+  Beta: 0.334
+
+FUNDAMENTALS
+  P/E Ratio: 88.48102 (Forward: 13.011979)
+  PEG Ratio: N/A
+  P/B Ratio: -113.35135
+  Dividend Yield: 315.0%
+  Profit Margin: 6.91%
+  ROE: 6225.0%
+  D/E Ratio: N/A
+
+PERFORMANCE
+  1D: N/A% | 5D: -6.95% | 1M: -8.32%
+  3M: -5.49% | 6M: -3.58% | YTD: -7.82%
+  1Y: 1.35%
+
+RECOMMENDATION
+  Rating: HOLD
+  Risk Level: MODERATE
+  Summary: AbbVie Inc. (ABBV) - Healthcare. Trading below 50-day SMA Golden cross pattern (50 SMA > 200 SMA) Low beta (defensive stock). Risk factors: Moderate volatility, High P/E ratio.
+
+============================================================
+PFE - Pfizer Inc.
+============================================================
+Sector: Healthcare | Industry: Drug Manufacturers - General
+Analysis Date: 2026-03-18 11:55:37
+
+PRICE DATA
+  Current Price: $27.24
+  52-Week Range: $20.92 - $27.94
+  Volume: 18,814,363 (Avg: 45,476,005)
+  Market Cap: $154.87B
+
+TECHNICAL INDICATORS
+  SMA 20/50/200: 26.98 / 26.45 / 24.62
+  RSI (14): 51.45
+  30-Day Volatility: 24.34%
+  Beta: 0.412
+
+FUNDAMENTALS
+  P/E Ratio: 20.025736 (Forward: 9.62963)
+  PEG Ratio: N/A
+  P/B Ratio: 1.790716
+  Dividend Yield: 627.0%
+  Profit Margin: 12.42%
+  ROE: 8.89%
+  D/E Ratio: 77.957
+
+PERFORMANCE
+  1D: N/A% | 5D: 1.4% | 1M: -0.49%
+  3M: 8.47% | 6M: 17.17% | YTD: 9.97%
+  1Y: 11.03%
+
+RECOMMENDATION
+  Rating: BUY
+  Risk Level: LOW
+  Summary: Pfizer Inc. (PFE) - Healthcare. Golden cross pattern (50 SMA > 200 SMA) Low beta (defensive stock) Attractive dividend yield (627.0%). 
+
+============================================================
+WMT - Walmart Inc.
+============================================================
+Sector: Consumer Defensive | Industry: Discount Stores
+Analysis Date: 2026-03-18 11:55:38
+
+PRICE DATA
+  Current Price: $123.20
+  52-Week Range: $79.81 - $134.69
+  Volume: 6,996,079 (Avg: 31,000,950)
+  Market Cap: $982.26B
+
+TECHNICAL INDICATORS
+  SMA 20/50/200: 125.38 / 123.32 / 107.67
+  RSI (14): 46.88
+  30-Day Volatility: 28.46%
+  Beta: 0.657
+
+FUNDAMENTALS
+  P/E Ratio: 45.128242 (Forward: 37.51286)
+  PEG Ratio: N/A
+  P/B Ratio: 9.85522
+  Dividend Yield: 79.0%
+  Profit Margin: 3.07%
+  ROE: 21.85%
+  D/E Ratio: 64.443
+
+PERFORMANCE
+  1D: N/A% | 5D: -1.7% | 1M: -2.7%
+  3M: 6.74% | 6M: 18.4% | YTD: 9.26%
+  1Y: 45.32%
+
+RECOMMENDATION
+  Rating: BUY
+  Risk Level: MODERATE
+  Summary: Walmart Inc. (WMT) - Consumer Defensive. Golden cross pattern (50 SMA > 200 SMA) Attractive dividend yield (79.0%) Strong 1-year return (45.32%). Risk factors: Moderate volatility, High P/E ratio.
+
+============================================================
+COST - Costco Wholesale Corporation
+============================================================
+Sector: Consumer Defensive | Industry: Discount Stores
+Analysis Date: 2026-03-18 11:55:38
+
+PRICE DATA
+  Current Price: $988.95
+  52-Week Range: $844.06 - $1,067.08
+  Volume: 416,570 (Avg: 2,404,442)
+  Market Cap: $438.79B
+
+TECHNICAL INDICATORS
+  SMA 20/50/200: 997.06 / 977.67 / 948.11
+  RSI (14): 50.83
+  30-Day Volatility: 19.53%
+  Beta: 0.993
+
+FUNDAMENTALS
+  P/E Ratio: 51.42746 (Forward: 44.07335)
+  PEG Ratio: N/A
+  P/B Ratio: 13.675018
+  Dividend Yield: 52.0%
+  Profit Margin: 2.99%
+  ROE: 29.65%
+  D/E Ratio: 25.976
+
+PERFORMANCE
+  1D: N/A% | 5D: -1.43% | 1M: -0.72%
+  3M: 15.1% | 6M: 2.98% | YTD: 15.89%
+  1Y: 10.73%
+
+RECOMMENDATION
+  Rating: BUY
+  Risk Level: MODERATE
+  Summary: Costco Wholesale Corporation (COST) - Consumer Defensive. Golden cross pattern (50 SMA > 200 SMA) Attractive dividend yield (52.0%). Risk factors: High P/E ratio.
+
+============================================================
+DIS - The Walt Disney Company
+============================================================
+Sector: Communication Services | Industry: Entertainment
+Analysis Date: 2026-03-18 11:55:40
+
+PRICE DATA
+  Current Price: $99.77
+  52-Week Range: $80.10 - $124.69
+  Volume: 4,974,077 (Avg: 11,326,530)
+  Market Cap: $176.93B
+
+TECHNICAL INDICATORS
+  SMA 20/50/200: 102.73 / 107.09 / 112.04
+  RSI (14): 21.89
+  30-Day Volatility: 28.22%
+  Beta: 1.443
+
+FUNDAMENTALS
+  P/E Ratio: 14.693666 (Forward: 13.562247)
+  PEG Ratio: N/A
+  P/B Ratio: 1.6334583
+  Dividend Yield: 150.0%
+  Profit Margin: 12.8%
+  ROE: 12.02%
+  D/E Ratio: 40.909
+
+PERFORMANCE
+  1D: N/A% | 5D: 0.34% | 1M: -6.84%
+  3M: -10.62% | 6M: -13.48% | YTD: -10.8%
+  1Y: 1.53%
+
+RECOMMENDATION
+  Rating: BUY
+  Risk Level: MODERATE
+  Summary: The Walt Disney Company (DIS) - Communication Services. RSI indicates oversold conditions Trading below 50-day SMA Death cross pattern (50 SMA < 200 SMA). Risk factors: Moderate volatility.
+
+============================================================
+NFLX - Netflix Inc.
+============================================================
+Sector: Communication Services | Industry: Entertainment
+Analysis Date: 2026-03-18 11:55:43
+
+PRICE DATA
+  Current Price: $95.00
+  52-Week Range: $75.01 - $134.12
+  Volume: 13,779,021 (Avg: 48,689,857)
+  Market Cap: $402.98B
+
+TECHNICAL INDICATORS
+  SMA 20/50/200: 91.46 / 87.13 / 108.71
+  RSI (14): 73.63
+  30-Day Volatility: 50.77%
+  Beta: 1.714
+
+FUNDAMENTALS
+  P/E Ratio: 37.549446 (Forward: 24.713737)
+  PEG Ratio: N/A
+  P/B Ratio: 15.069813
+  Dividend Yield: N/A%
+  Profit Margin: 24.3%
+  ROE: 42.76%
+  D/E Ratio: 63.782
+
+PERFORMANCE
+  1D: N/A% | 5D: 0.73% | 1M: 21.81%
+  3M: 0.45% | 6M: -22.67% | YTD: 4.41%
+  1Y: 2.15%
+
+RECOMMENDATION
+  Rating: SELL
+  Risk Level: HIGH
+  Summary: Netflix Inc. (NFLX) - Communication Services. RSI indicates overbought conditions Trading above 50-day SMA Death cross pattern (50 SMA < 200 SMA). Risk factors: High volatility, High beta (more volatile than market).
+
+============================================================
+BA - The Boeing Company
+============================================================
+Sector: Industrials | Industry: Aerospace & Defense
+Analysis Date: 2026-03-18 11:55:44
+
+PRICE DATA
+  Current Price: $207.59
+  52-Week Range: $128.88 - $254.35
+  Volume: 2,594,800 (Avg: 7,355,761)
+  Market Cap: $163.13B
+
+TECHNICAL INDICATORS
+  SMA 20/50/200: 222.73 / 233.46 / 219.28
+  RSI (14): 33.99
+  30-Day Volatility: 31.45%
+  Beta: 1.096
+
+FUNDAMENTALS
+  P/E Ratio: 83.36948 (Forward: 44.13334)
+  PEG Ratio: N/A
+  P/B Ratio: 29.89918
+  Dividend Yield: N/A%
+  Profit Margin: 2.5%
+  ROE: 290.08%
+  D/E Ratio: 1032.894
+
+PERFORMANCE
+  1D: N/A% | 5D: 1.38% | 1M: -13.12%
+  3M: 0.43% | 6M: -3.28% | YTD: -8.86%
+  1Y: 28.48%
+
+RECOMMENDATION
+  Rating: HOLD
+  Risk Level: HIGH
+  Summary: The Boeing Company (BA) - Industrials. Trading below 50-day SMA Golden cross pattern (50 SMA > 200 SMA) Strong 1-year return (28.48%). Risk factors: Moderate volatility, High P/E ratio.
+
+============================================================
+CAT - Caterpillar Inc.
+============================================================
+Sector: Industrials | Industry: Farm & Heavy Construction Machinery
+Analysis Date: 2026-03-18 11:55:44
+
+PRICE DATA
+  Current Price: $706.50
+  52-Week Range: $267.30 - $789.81
+  Volume: 680,774 (Avg: 2,808,906)
+  Market Cap: $330.63B
+
+TECHNICAL INDICATORS
+  SMA 20/50/200: 726.64 / 695.06 / 528.9
+  RSI (14): 37.21
+  30-Day Volatility: 38.1%
+  Beta: 1.531
+
+FUNDAMENTALS
+  P/E Ratio: 37.55981 (Forward: 25.517124)
+  PEG Ratio: N/A
+  P/B Ratio: 15.42004
+  Dividend Yield: 86.0%
+  Profit Margin: 13.14%
+  ROE: 43.53%
+  D/E Ratio: 206.67
+
+PERFORMANCE
+  1D: N/A% | 5D: 0.83% | 1M: -6.05%
+  3M: 20.24% | 6M: 57.59% | YTD: 18.34%
+  1Y: 112.71%
+
+RECOMMENDATION
+  Rating: BUY
+  Risk Level: HIGH
+  Summary: Caterpillar Inc. (CAT) - Industrials. Golden cross pattern (50 SMA > 200 SMA) Attractive dividend yield (86.0%) Strong 1-year return (112.71%). Risk factors: Moderate volatility, High beta (more volatile than market).
+
+============================================================
+GS - Goldman Sachs Group Inc.
+============================================================
+Sector: Financial Services | Industry: Capital Markets
+Analysis Date: 2026-03-18 11:55:45
+
+PRICE DATA
+  Current Price: $811.22
+  52-Week Range: $439.38 - $984.70
+  Volume: 593,056 (Avg: 2,455,091)
+  Market Cap: $243.31B
+
+TECHNICAL INDICATORS
+  SMA 20/50/200: 851.55 / 899.41 / 789.5
+  RSI (14): 24.35
+  30-Day Volatility: 38.96%
+  Beta: 1.336
+
+FUNDAMENTALS
+  P/E Ratio: 15.804012 (Forward: 12.472248)
+  PEG Ratio: N/A
+  P/B Ratio: 2.2756844
+  Dividend Yield: 223.0%
+  Profit Margin: 28.92%
+  ROE: 13.86%
+  D/E Ratio: 596.073
+
+PERFORMANCE
+  1D: N/A% | 5D: 3.01% | 1M: -12.66%
+  3M: -7.24% | 6M: 3.19% | YTD: -10.81%
+  1Y: 50.06%
+
+RECOMMENDATION
+  Rating: STRONG BUY
+  Risk Level: MODERATE
+  Summary: Goldman Sachs Group Inc. (GS) - Financial Services. RSI indicates oversold conditions Trading below 50-day SMA Golden cross pattern (50 SMA > 200 SMA). Risk factors: Moderate volatility, High debt-to-equity ratio.
+
+============================================================
+MS - Morgan Stanley
+============================================================
+Sector: Financial Services | Industry: Capital Markets
+Analysis Date: 2026-03-18 11:55:45
+
+PRICE DATA
+  Current Price: $159.45
+  52-Week Range: $94.33 - $192.68
+  Volume: 3,361,907 (Avg: 7,030,222)
+  Market Cap: $253.18B
+
+TECHNICAL INDICATORS
+  SMA 20/50/200: 164.54 / 174.31 / 158.05
+  RSI (14): 23.21
+  30-Day Volatility: 37.66%
+  Beta: 1.207
+
+FUNDAMENTALS
+  P/E Ratio: 15.616553 (Forward: 12.958478)
+  PEG Ratio: N/A
+  P/B Ratio: 2.4771235
+  Dividend Yield: 253.0%
+  Profit Margin: 23.99%
+  ROE: 15.61%
+  D/E Ratio: 455.747
+
+PERFORMANCE
+  1D: N/A% | 5D: 3.29% | 1M: -9.71%
+  3M: -9.17% | 6M: 2.47% | YTD: -11.86%
+  1Y: 38.62%
+
+RECOMMENDATION
+  Rating: STRONG BUY
+  Risk Level: MODERATE
+  Summary: Morgan Stanley (MS) - Financial Services. RSI indicates oversold conditions Trading below 50-day SMA Golden cross pattern (50 SMA > 200 SMA). Risk factors: Moderate volatility, High debt-to-equity ratio.
+
+============================================================
+BRK.B - Berkshire Hathaway Inc.
+============================================================
+Sector: Financial Services | Industry: Insurance - Diversified
+Analysis Date: 2026-03-18 11:55:46
+
+ERROR: No historical data available
+
+============================================================
+AMD - Advanced Micro Devices Inc.
+============================================================
+Sector: Technology | Industry: Semiconductors
+Analysis Date: 2026-03-18 11:55:47
+
+PRICE DATA
+  Current Price: $199.97
+  52-Week Range: $76.48 - $267.08
+  Volume: 14,871,026 (Avg: 36,369,054)
+  Market Cap: $326.03B
+
+TECHNICAL INDICATORS
+  SMA 20/50/200: 200.35 / 214.81 / 192.1
+  RSI (14): 47.12
+  30-Day Volatility: 73.76%
+  Beta: 2.022
+
+FUNDAMENTALS
+  P/E Ratio: 76.61686 (Forward: 18.609789)
+  PEG Ratio: N/A
+  P/B Ratio: 5.1738677
+  Dividend Yield: N/A%
+  Profit Margin: 12.52%
+  ROE: 7.08%
+  D/E Ratio: 6.359
+
+PERFORMANCE
+  1D: N/A% | 5D: 1.13% | 1M: -0.07%
+  3M: -4.4% | 6M: 25.64% | YTD: -10.52%
+  1Y: 93.19%
+
+RECOMMENDATION
+  Rating: HOLD
+  Risk Level: HIGH
+  Summary: Advanced Micro Devices Inc. (AMD) - Technology. Trading below 50-day SMA Golden cross pattern (50 SMA > 200 SMA) Strong 1-year return (93.19%). Risk factors: High volatility, High beta (more volatile than market).
+
+============================================================
+INTC - Intel Corporation
+============================================================
+Sector: Technology | Industry: Semiconductors
+Analysis Date: 2026-03-18 11:55:47
+
+PRICE DATA
+  Current Price: $45.06
+  52-Week Range: $17.67 - $54.60
+  Volume: 42,902,016 (Avg: 103,822,494)
+  Market Cap: $225.11B
+
+TECHNICAL INDICATORS
+  SMA 20/50/200: 45.31 / 46.39 / 33.94
+  RSI (14): 48.92
+  30-Day Volatility: 52.82%
+  Beta: 1.375
+
+FUNDAMENTALS
+  P/E Ratio: N/A (Forward: 45.466816)
+  PEG Ratio: N/A
+  P/B Ratio: 1.9693147
+  Dividend Yield: N/A%
+  Profit Margin: -0.51%
+  ROE: 0.02%
+  D/E Ratio: 37.282
+
+PERFORMANCE
+  1D: N/A% | 5D: -0.42% | 1M: -0.88%
+  3M: 20.77% | 6M: 80.96% | YTD: 14.42%
+  1Y: 73.84%
+
+RECOMMENDATION
+  Rating: BUY
+  Risk Level: MODERATE
+  Summary: Intel Corporation (INTC) - Technology. Golden cross pattern (50 SMA > 200 SMA) Strong 1-year return (73.84%). Risk factors: High volatility.
+
+============================================================
+CRM - Salesforce Inc.
+============================================================
+Sector: Technology | Industry: Software - Application
+Analysis Date: 2026-03-18 11:55:48
+
+PRICE DATA
+  Current Price: $194.29
+  52-Week Range: $174.57 - $296.05
+  Volume: 3,220,466 (Avg: 11,872,166)
+  Market Cap: $182.05B
+
+TECHNICAL INDICATORS
+  SMA 20/50/200: 193.67 / 208.83 / 241.16
+  RSI (14): 44.9
+  30-Day Volatility: 40.55%
+  Beta: 1.307
+
+FUNDAMENTALS
+  P/E Ratio: 24.940948 (Forward: 13.033317)
+  PEG Ratio: N/A
+  P/B Ratio: 3.051899
+  Dividend Yield: 90.0%
+  Profit Margin: 17.96%
+  ROE: 12.4%
+  D/E Ratio: 29.947
+
+PERFORMANCE
+  1D: N/A% | 5D: -2.5% | 1M: 3.46%
+  3M: -23.66% | 6M: -19.66% | YTD: -23.39%
+  1Y: -29.84%
+
+RECOMMENDATION
+  Rating: SELL
+  Risk Level: MODERATE
+  Summary: Salesforce Inc. (CRM) - Technology. Trading below 50-day SMA Death cross pattern (50 SMA < 200 SMA) Attractive dividend yield (90.0%). Risk factors: High volatility, Weak 1-year return (-29.84%).
+
+============================================================
+ORCL - Oracle Corporation
+============================================================
+Sector: Technology | Industry: Software - Infrastructure
+Analysis Date: 2026-03-18 11:55:48
+
+PRICE DATA
+  Current Price: $153.12
+  52-Week Range: $118.86 - $345.72
+  Volume: 8,420,210 (Avg: 27,595,838)
+  Market Cap: $440.38B
+
+TECHNICAL INDICATORS
+  SMA 20/50/200: 151.81 / 164.1 / 219.46
+  RSI (14): 53.08
+  30-Day Volatility: 59.96%
+  Beta: 1.648
+
+FUNDAMENTALS
+  P/E Ratio: 27.490124 (Forward: 19.2079)
+  PEG Ratio: N/A
+  P/B Ratio: 13.12532
+  Dividend Yield: 129.0%
+  Profit Margin: 25.3%
+  ROE: 57.57%
+  D/E Ratio: 415.265
+
+PERFORMANCE
+  1D: N/A% | 5D: -3.79% | 1M: -1.95%
+  3M: -18.62% | 6M: -48.98% | YTD: -21.55%
+  1Y: 3.49%
+
+RECOMMENDATION
+  Rating: HOLD
+  Risk Level: HIGH
+  Summary: Oracle Corporation (ORCL) - Technology. Trading below 50-day SMA Death cross pattern (50 SMA < 200 SMA) Attractive dividend yield (129.0%). Risk factors: High volatility, High beta (more volatile than market).
+
+============================================================
+IBM - International Business Machines
+============================================================
+Sector: Technology | Industry: Information Technology Services
+Analysis Date: 2026-03-18 11:55:49
+
+PRICE DATA
+  Current Price: $253.71
+  52-Week Range: $214.50 - $324.90
+  Volume: 1,789,170 (Avg: 5,748,157)
+  Market Cap: $238.09B
+
+TECHNICAL INDICATORS
+  SMA 20/50/200: 247.07 / 274.0 / 276.56
+  RSI (14): 62.47
+  30-Day Volatility: 52.26%
+  Beta: 0.706
+
+FUNDAMENTALS
+  P/E Ratio: 22.775133 (Forward: 18.975517)
+  PEG Ratio: N/A
+  P/B Ratio: 7.281245
+  Dividend Yield: 262.0%
+  Profit Margin: 15.69%
+  ROE: 35.16%
+  D/E Ratio: 197.328
+
+PERFORMANCE
+  1D: N/A% | 5D: 2.44% | 1M: -2.71%
+  3M: -15.84% | 6M: -0.97% | YTD: -12.47%
+  1Y: 5.29%
+
+RECOMMENDATION
+  Rating: SELL
+  Risk Level: MODERATE
+  Summary: International Business Machines (IBM) - Technology. Trading below 50-day SMA Death cross pattern (50 SMA < 200 SMA) Attractive dividend yield (262.0%). Risk factors: High volatility, High debt-to-equity ratio.
+
+============================================================
+NKE - Nike Inc.
+============================================================
+Sector: Consumer Cyclical | Industry: Footwear & Accessories
+Analysis Date: 2026-03-18 11:55:49
+
+PRICE DATA
+  Current Price: $53.92
+  52-Week Range: $52.28 - $80.17
+  Volume: 6,868,876 (Avg: 18,693,347)
+  Market Cap: $79.81B
+
+TECHNICAL INDICATORS
+  SMA 20/50/200: 58.95 / 61.67 / 66.3
+  RSI (14): 9.59
+  30-Day Volatility: 32.56%
+  Beta: 1.286
+
+FUNDAMENTALS
+  P/E Ratio: 31.528595 (Forward: 23.445719)
+  PEG Ratio: N/A
+  P/B Ratio: 5.664415
+  Dividend Yield: 298.0%
+  Profit Margin: 5.43%
+  ROE: 17.95%
+  D/E Ratio: 80.099
+
+PERFORMANCE
+  1D: N/A% | 5D: -0.39% | 1M: -17.2%
+  3M: -19.13% | 6M: -24.46% | YTD: -14.23%
+  1Y: -24.6%
+
+RECOMMENDATION
+  Rating: SELL
+  Risk Level: HIGH
+  Summary: Nike Inc. (NKE) - Consumer Cyclical. RSI indicates oversold conditions Trading below 50-day SMA Death cross pattern (50 SMA < 200 SMA). Risk factors: Moderate volatility, High P/E ratio.
+
+============================================================
+MCD - McDonald's Corporation
+============================================================
+Sector: Consumer Cyclical | Industry: Restaurants
+Analysis Date: 2026-03-18 11:55:50
+
+PRICE DATA
+  Current Price: $320.61
+  52-Week Range: $283.47 - $341.75
+  Volume: 894,150 (Avg: 3,217,474)
+  Market Cap: $228.79B
+
+TECHNICAL INDICATORS
+  SMA 20/50/200: 328.99 / 319.75 / 305.26
+  RSI (14): 33.8
+  30-Day Volatility: 16.61%
+  Beta: 0.496
+
+FUNDAMENTALS
+  P/E Ratio: 26.851341 (Forward: 22.39176)
+  PEG Ratio: N/A
+  P/B Ratio: -127.27471
+  Dividend Yield: 228.0%
+  Profit Margin: 31.85%
+  ROE: N/A%
+  D/E Ratio: N/A
+
+PERFORMANCE
+  1D: N/A% | 5D: -1.02% | 1M: -1.68%
+  3M: 2.51% | 6M: 6.35% | YTD: 6.31%
+  1Y: 8.04%
+
+RECOMMENDATION
+  Rating: STRONG BUY
+  Risk Level: LOW
+  Summary: McDonald's Corporation (MCD) - Consumer Cyclical. Golden cross pattern (50 SMA > 200 SMA) Low beta (defensive stock) Attractive dividend yield (228.0%). 
+
+============================================================
+SBUX - Starbucks Corporation
+============================================================
+Sector: Consumer Cyclical | Industry: Restaurants
+Analysis Date: 2026-03-18 11:55:50
+
+PRICE DATA
+  Current Price: $95.30
+  52-Week Range: $75.50 - $104.82
+  Volume: 2,926,249 (Avg: 9,192,561)
+  Market Cap: $108.58B
+
+TECHNICAL INDICATORS
+  SMA 20/50/200: 97.94 / 95.3 / 88.49
+  RSI (14): 38.7
+  30-Day Volatility: 26.89%
+  Beta: 0.928
+
+FUNDAMENTALS
+  P/E Ratio: 79.416664 (Forward: 32.269424)
+  PEG Ratio: N/A
+  P/B Ratio: -12.941337
+  Dividend Yield: 254.0%
+  Profit Margin: 3.63%
+  ROE: N/A%
+  D/E Ratio: N/A
+
+PERFORMANCE
+  1D: N/A% | 5D: -4.87% | 1M: -0.48%
+  3M: 12.73% | 6M: 16.09% | YTD: 14.22%
+  1Y: -0.36%
+
+RECOMMENDATION
+  Rating: BUY
+  Risk Level: MODERATE
+  Summary: Starbucks Corporation (SBUX) - Consumer Cyclical. Golden cross pattern (50 SMA > 200 SMA) Attractive dividend yield (254.0%). Risk factors: Moderate volatility, High P/E ratio.
+
+============================================================
+F - Ford Motor Company
+============================================================
+Sector: Consumer Cyclical | Industry: Auto Manufacturers
+Analysis Date: 2026-03-18 11:55:51
+
+PRICE DATA
+  Current Price: $11.94
+  52-Week Range: $8.44 - $14.80
+  Volume: 22,065,945 (Avg: 63,289,779)
+  Market Cap: $47.65B
+
+TECHNICAL INDICATORS
+  SMA 20/50/200: 12.89 / 13.37 / 12.13
+  RSI (14): 13.86
+  30-Day Volatility: 33.52%
+  Beta: 1.665
+
+FUNDAMENTALS
+  P/E Ratio: N/A (Forward: 6.504964)
+  PEG Ratio: N/A
+  P/B Ratio: 1.325308
+  Dividend Yield: 503.0%
+  Profit Margin: -4.37%
+  ROE: -20.19%
+  D/E Ratio: 460.639
+
+PERFORMANCE
+  1D: N/A% | 5D: -0.8% | 1M: -13.77%
+  3M: -11.69% | 6M: 4.74% | YTD: -9.5%
+  1Y: 26.2%
+
+RECOMMENDATION
+  Rating: STRONG BUY
+  Risk Level: HIGH
+  Summary: Ford Motor Company (F) - Consumer Cyclical. RSI indicates oversold conditions Trading below 50-day SMA Golden cross pattern (50 SMA > 200 SMA). Risk factors: Moderate volatility, High beta (more volatile than market).
+
+============================================================
+GM - General Motors Company
+============================================================
+Sector: Consumer Cyclical | Industry: Auto Manufacturers
+Analysis Date: 2026-03-18 11:55:51
+
+PRICE DATA
+  Current Price: $74.32
+  52-Week Range: $41.60 - $87.62
+  Volume: 1,761,649 (Avg: 8,343,561)
+  Market Cap: $69.33B
+
+TECHNICAL INDICATORS
+  SMA 20/50/200: 77.02 / 80.14 / 65.88
+  RSI (14): 26.35
+  30-Day Volatility: 28.0%
+  Beta: 1.356
+
+FUNDAMENTALS
+  P/E Ratio: 22.727829 (Forward: 5.3557243)
+  PEG Ratio: N/A
+  P/B Ratio: 1.0992457
+  Dividend Yield: 97.0%
+  Profit Margin: 1.46%
+  ROE: 4.32%
+  D/E Ratio: 208.299
+
+PERFORMANCE
+  1D: N/A% | 5D: 1.18% | 1M: -10.96%
+  3M: -8.88% | 6M: 27.1% | YTD: -8.01%
+  1Y: 54.26%
+
+RECOMMENDATION
+  Rating: STRONG BUY
+  Risk Level: MODERATE
+  Summary: General Motors Company (GM) - Consumer Cyclical. RSI indicates oversold conditions Trading below 50-day SMA Golden cross pattern (50 SMA > 200 SMA). Risk factors: Moderate volatility, High debt-to-equity ratio.
+
+============================================================
+T - AT&T Inc.
+============================================================
+Sector: Communication Services | Industry: Telecom Services
+Analysis Date: 2026-03-18 11:55:52
+
+PRICE DATA
+  Current Price: $27.62
+  52-Week Range: $22.95 - $29.79
+  Volume: 10,034,427 (Avg: 43,079,113)
+  Market Cap: $195.85B
+
+TECHNICAL INDICATORS
+  SMA 20/50/200: 28.0 / 26.42 / 26.44
+  RSI (14): 51.79
+  30-Day Volatility: 24.91%
+  Beta: 0.576
+
+FUNDAMENTALS
+  P/E Ratio: 9.087172 (Forward: 10.840093)
+  PEG Ratio: N/A
+  P/B Ratio: 1.7588819
+  Dividend Yield: 399.0%
+  Profit Margin: 17.47%
+  ROE: 18.8%
+  D/E Ratio: 124.179
+
+PERFORMANCE
+  1D: N/A% | 5D: 0.86% | 1M: -0.91%
+  3M: 16.11% | 6M: -4.37% | YTD: 13.8%
+  1Y: 8.36%
+
+RECOMMENDATION
+  Rating: BUY
+  Risk Level: MODERATE
+  Summary: AT&T Inc. (T) - Communication Services. Death cross pattern (50 SMA < 200 SMA) Attractive P/E ratio Attractive dividend yield (399.0%). Risk factors: High debt-to-equity ratio.
+
+============================================================
+VZ - Verizon Communications Inc.
+============================================================
+Sector: Communication Services | Industry: Telecom Services
+Analysis Date: 2026-03-18 11:55:53
+
+PRICE DATA
+  Current Price: $49.71
+  52-Week Range: $38.39 - $51.67
+  Volume: 10,341,384 (Avg: 30,965,423)
+  Market Cap: $209.64B
+
+TECHNICAL INDICATORS
+  SMA 20/50/200: 50.25 / 45.82 / 42.03
+  RSI (14): 56.63
+  30-Day Volatility: 20.29%
+  Beta: 0.281
+
+FUNDAMENTALS
+  P/E Ratio: 12.242612 (Forward: 9.447465)
+  PEG Ratio: N/A
+  P/B Ratio: 2.0066614
+  Dividend Yield: 560.0%
+  Profit Margin: 12.43%
+  ROE: 17.07%
+  D/E Ratio: 174.78
+
+PERFORMANCE
+  1D: N/A% | 5D: -1.83% | 1M: 3.44%
+  3M: 24.09% | 6M: 16.35% | YTD: 24.8%
+  1Y: 20.07%
+
+RECOMMENDATION
+  Rating: STRONG BUY
+  Risk Level: MODERATE
+  Summary: Verizon Communications Inc. (VZ) - Communication Services. Trading above 50-day SMA Golden cross pattern (50 SMA > 200 SMA) Low beta (defensive stock). Risk factors: High debt-to-equity ratio.
+
+============================================================
+NEE - NextEra Energy Inc.
+============================================================
+Sector: Utilities | Industry: Utilities - Regulated Electric
+Analysis Date: 2026-03-18 11:55:53
+
+PRICE DATA
+  Current Price: $91.22
+  52-Week Range: $61.72 - $95.91
+  Volume: 2,452,964 (Avg: 9,687,503)
+  Market Cap: $190.06B
+
+TECHNICAL INDICATORS
+  SMA 20/50/200: 92.35 / 88.35 / 79.08
+  RSI (14): 49.23
+  30-Day Volatility: 20.33%
+  Beta: 0.749
+
+FUNDAMENTALS
+  P/E Ratio: 27.642426 (Forward: 20.83262)
+  PEG Ratio: N/A
+  P/B Ratio: 3.4795547
+  Dividend Yield: 269.0%
+  Profit Margin: 24.93%
+  ROE: 8.37%
+  D/E Ratio: 146.242
+
+PERFORMANCE
+  1D: N/A% | 5D: -0.56% | 1M: 0.68%
+  3M: 12.94% | 6M: 31.51% | YTD: 13.48%
+  1Y: 32.86%
+
+RECOMMENDATION
+  Rating: STRONG BUY
+  Risk Level: MODERATE
+  Summary: NextEra Energy Inc. (NEE) - Utilities. Golden cross pattern (50 SMA > 200 SMA) Attractive dividend yield (269.0%) Strong profit margins. Risk factors: High debt-to-equity ratio.
+
+============================================================
+DUK - Duke Energy Corporation
+============================================================
+Sector: Utilities | Industry: Utilities - Regulated Electric
+Analysis Date: 2026-03-18 11:55:54
+
+PRICE DATA
+  Current Price: $131.88
+  52-Week Range: $111.22 - $134.49
+  Volume: 1,064,815 (Avg: 4,321,574)
+  Market Cap: $102.56B
+
+TECHNICAL INDICATORS
+  SMA 20/50/200: 130.58 / 124.08 / 120.09
+  RSI (14): 60.71
+  30-Day Volatility: 14.56%
+  Beta: 0.466
+
+FUNDAMENTALS
+  P/E Ratio: 20.867088 (Forward: 18.431557)
+  PEG Ratio: N/A
+  P/B Ratio: 2.017007
+  Dividend Yield: 320.0%
+  Profit Margin: 15.63%
+  ROE: 9.72%
+  D/E Ratio: 171.838
+
+PERFORMANCE
+  1D: N/A% | 5D: 0.05% | 1M: 5.3%
+  3M: 15.06% | 6M: 10.78% | YTD: 13.25%
+  1Y: 13.08%
+
+RECOMMENDATION
+  Rating: STRONG BUY
+  Risk Level: MODERATE
+  Summary: Duke Energy Corporation (DUK) - Utilities. Trading above 50-day SMA Golden cross pattern (50 SMA > 200 SMA) Low beta (defensive stock). Risk factors: High debt-to-equity ratio.
+
+============================================================
+SO - The Southern Company
+============================================================
+Sector: Utilities | Industry: Utilities - Regulated Electric
+Analysis Date: 2026-03-18 11:55:55
+
+PRICE DATA
+  Current Price: $97.30
+  52-Week Range: $83.09 - $100.84
+  Volume: 1,282,131 (Avg: 6,004,067)
+  Market Cap: $108.92B
+
+TECHNICAL INDICATORS
+  SMA 20/50/200: 96.83 / 91.87 / 90.72
+  RSI (14): 55.25
+  30-Day Volatility: 20.81%
+  Beta: 0.41
+
+FUNDAMENTALS
+  P/E Ratio: 24.821428 (Forward: 19.80694)
+  PEG Ratio: N/A
+  P/B Ratio: 3.0237112
+  Dividend Yield: 301.0%
+  Profit Margin: 14.69%
+  ROE: 11.04%
+  D/E Ratio: 190.586
+
+PERFORMANCE
+  1D: N/A% | 5D: -0.55% | 1M: 6.88%
+  3M: 14.41% | 6M: 7.9% | YTD: 12.48%
+  1Y: 11.37%
+
+RECOMMENDATION
+  Rating: STRONG BUY
+  Risk Level: MODERATE
+  Summary: The Southern Company (SO) - Utilities. Trading above 50-day SMA Golden cross pattern (50 SMA > 200 SMA) Low beta (defensive stock). Risk factors: High debt-to-equity ratio.
+
+============================================================
+SPY - SPDR S&P 500 ETF Trust
+============================================================
+Sector: ETF | Industry: Index Fund
+Analysis Date: 2026-03-18 11:55:55
+
+PRICE DATA
+  Current Price: $667.08
+  52-Week Range: $481.80 - $697.84
+  Volume: 30,850,255 (Avg: 81,782,240)
+  Market Cap: $612.22B
+
+TECHNICAL INDICATORS
+  SMA 20/50/200: 679.23 / 685.46 / 657.68
+  RSI (14): 31.9
+  30-Day Volatility: 13.07%
+  Beta: N/A
+
+FUNDAMENTALS
+  P/E Ratio: 26.461294 (Forward: N/A)
+  PEG Ratio: N/A
+  P/B Ratio: 1.5541447
+  Dividend Yield: 106.0%
+  Profit Margin: N/A%
+  ROE: N/A%
+  D/E Ratio: N/A
+
+PERFORMANCE
+  1D: N/A% | 5D: 0.15% | 1M: -2.8%
+  3M: -1.45% | 6M: 1.78% | YTD: -2.36%
+  1Y: 20.3%
+
+RECOMMENDATION
+  Rating: STRONG BUY
+  Risk Level: LOW
+  Summary: SPDR S&P 500 ETF Trust (SPY) - ETF. Golden cross pattern (50 SMA > 200 SMA) Attractive dividend yield (106.0%) Strong 1-year return (20.3%). 
+
+============================================================
+QQQ - Invesco QQQ Trust
+============================================================
+Sector: ETF | Industry: Index Fund
+Analysis Date: 2026-03-18 11:55:56
+
+PRICE DATA
+  Current Price: $600.15
+  52-Week Range: $402.39 - $637.01
+  Volume: 28,368,478 (Avg: 60,278,810)
+  Market Cap: $235.92B
+
+TECHNICAL INDICATORS
+  SMA 20/50/200: 605.09 / 612.5 / 591.41
+  RSI (14): 42.93
+  30-Day Volatility: 17.42%
+  Beta: N/A
+
+FUNDAMENTALS
+  P/E Ratio: 32.304943 (Forward: N/A)
+  PEG Ratio: N/A
+  P/B Ratio: 1.6774558
+  Dividend Yield: 46.0%
+  Profit Margin: N/A%
+  ROE: N/A%
+  D/E Ratio: N/A
+
+PERFORMANCE
+  1D: N/A% | 5D: 0.48% | 1M: -0.93%
+  3M: -1.77% | 6M: 1.97% | YTD: -2.12%
+  1Y: 27.11%
+
+RECOMMENDATION
+  Rating: BUY
+  Risk Level: MODERATE
+  Summary: Invesco QQQ Trust (QQQ) - ETF. Golden cross pattern (50 SMA > 200 SMA) Attractive dividend yield (46.0%) Strong 1-year return (27.11%). Risk factors: High P/E ratio.
+
+============================================================
+IWM - iShares Russell 2000 ETF
+============================================================
+Sector: ETF | Industry: Index Fund
+Analysis Date: 2026-03-18 11:55:57
+
+PRICE DATA
+  Current Price: $248.58
+  52-Week Range: $171.73 - $271.60
+  Volume: 22,341,502 (Avg: 40,880,428)
+  Market Cap: $69.86B
+
+TECHNICAL INDICATORS
+  SMA 20/50/200: 256.53 / 259.96 / 239.64
+  RSI (14): 28.83
+  30-Day Volatility: 21.1%
+  Beta: N/A
+
+FUNDAMENTALS
+  P/E Ratio: 18.158157 (Forward: N/A)
+  PEG Ratio: N/A
+  P/B Ratio: 1.1366576
+  Dividend Yield: 98.0%
+  Profit Margin: N/A%
+  ROE: N/A%
+  D/E Ratio: N/A
+
+PERFORMANCE
+  1D: N/A% | 5D: 0.65% | 1M: -5.67%
+  3M: -0.35% | 6M: 4.59% | YTD: 0.1%
+  1Y: 23.64%
+
+RECOMMENDATION
+  Rating: STRONG BUY
+  Risk Level: LOW
+  Summary: iShares Russell 2000 ETF (IWM) - ETF. RSI indicates oversold conditions Golden cross pattern (50 SMA > 200 SMA) Attractive dividend yield (98.0%). 
+
+============================================================
+VTI - Vanguard Total Stock Market ETF
+============================================================
+Sector: ETF | Industry: Index Fund
+Analysis Date: 2026-03-18 11:55:57
+
+PRICE DATA
+  Current Price: $328.82
+  52-Week Range: $236.42 - $344.42
+  Volume: 1,767,918 (Avg: 6,446,255)
+  Market Cap: $681.87B
+
+TECHNICAL INDICATORS
+  SMA 20/50/200: 334.98 / 338.21 / 324.02
+  RSI (14): 31.71
+  30-Day Volatility: 13.66%
+  Beta: N/A
+
+FUNDAMENTALS
+  P/E Ratio: 25.773085 (Forward: N/A)
+  PEG Ratio: N/A
+  P/B Ratio: 2.3569956
+  Dividend Yield: 111.0%
+  Profit Margin: N/A%
+  ROE: N/A%
+  D/E Ratio: N/A
+
+PERFORMANCE
+  1D: N/A% | 5D: 0.27% | 1M: -2.96%
+  3M: -1.38% | 6M: 1.69% | YTD: -2.23%
+  1Y: 20.47%
+
+RECOMMENDATION
+  Rating: STRONG BUY
+  Risk Level: LOW
+  Summary: Vanguard Total Stock Market ETF (VTI) - ETF. Golden cross pattern (50 SMA > 200 SMA) Attractive dividend yield (111.0%) Strong 1-year return (20.47%). 
+
+============================================================
+GLD - SPDR Gold Shares
+============================================================
+Sector: ETF | Industry: Commodities
+Analysis Date: 2026-03-18 11:55:58
+
+PRICE DATA
+  Current Price: $449.12
+  52-Week Range: $272.58 - $509.70
+  Volume: 11,428,875 (Avg: 18,091,566)
+  Market Cap: $116.91B
+
+TECHNICAL INDICATORS
+  SMA 20/50/200: 470.57 / 455.83 / 373.06
+  RSI (14): 33.54
+  30-Day Volatility: 31.2%
+  Beta: N/A
+
+FUNDAMENTALS
+  P/E Ratio: N/A (Forward: N/A)
+  PEG Ratio: N/A
+  P/B Ratio: 2.6416183
+  Dividend Yield: N/A%
+  Profit Margin: N/A%
+  ROE: N/A%
+  D/E Ratio: N/A
+
+PERFORMANCE
+  1D: N/A% | 5D: -3.8% | 1M: -2.0%
+  3M: 13.45% | 6M: 33.28% | YTD: 12.76%
+  1Y: 60.42%
+
+RECOMMENDATION
+  Rating: BUY
+  Risk Level: MODERATE
+  Summary: SPDR Gold Shares (GLD) - ETF. Golden cross pattern (50 SMA > 200 SMA) Strong 1-year return (60.42%). Risk factors: Moderate volatility.

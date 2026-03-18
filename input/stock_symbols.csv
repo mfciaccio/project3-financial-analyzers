@@ -1,0 +1,50 @@
+Symbol,Company Name,Sector,Industry
+AAPL,Apple Inc.,Technology,Consumer Electronics
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure
+GOOGL,Alphabet Inc.,Technology,Internet Content & Information
+AMZN,Amazon.com Inc.,Consumer Cyclical,Internet Retail
+NVDA,NVIDIA Corporation,Technology,Semiconductors
+META,Meta Platforms Inc.,Technology,Internet Content & Information
+TSLA,Tesla Inc.,Consumer Cyclical,Auto Manufacturers
+JPM,JPMorgan Chase & Co.,Financial Services,Banks - Diversified
+V,Visa Inc.,Financial Services,Credit Services
+JNJ,Johnson & Johnson,Healthcare,Drug Manufacturers - General
+UNH,UnitedHealth Group Inc.,Healthcare,Healthcare Plans
+PG,Procter & Gamble Co.,Consumer Defensive,Household & Personal Products
+XOM,Exxon Mobil Corporation,Energy,Oil & Gas Integrated
+CVX,Chevron Corporation,Energy,Oil & Gas Integrated
+HD,The Home Depot Inc.,Consumer Cyclical,Home Improvement Retail
+KO,The Coca-Cola Company,Consumer Defensive,Beverages - Non-Alcoholic
+PEP,PepsiCo Inc.,Consumer Defensive,Beverages - Non-Alcoholic
+MRK,Merck & Co. Inc.,Healthcare,Drug Manufacturers - General
+ABBV,AbbVie Inc.,Healthcare,Drug Manufacturers - General
+PFE,Pfizer Inc.,Healthcare,Drug Manufacturers - General
+WMT,Walmart Inc.,Consumer Defensive,Discount Stores
+COST,Costco Wholesale Corporation,Consumer Defensive,Discount Stores
+DIS,The Walt Disney Company,Communication Services,Entertainment
+NFLX,Netflix Inc.,Communication Services,Entertainment
+BA,The Boeing Company,Industrials,Aerospace & Defense
+CAT,Caterpillar Inc.,Industrials,Farm & Heavy Construction Machinery
+GS,Goldman Sachs Group Inc.,Financial Services,Capital Markets
+MS,Morgan Stanley,Financial Services,Capital Markets
+BRK.B,Berkshire Hathaway Inc.,Financial Services,Insurance - Diversified
+AMD,Advanced Micro Devices Inc.,Technology,Semiconductors
+INTC,Intel Corporation,Technology,Semiconductors
+CRM,Salesforce Inc.,Technology,Software - Application
+ORCL,Oracle Corporation,Technology,Software - Infrastructure
+IBM,International Business Machines,Technology,Information Technology Services
+NKE,Nike Inc.,Consumer Cyclical,Footwear & Accessories
+MCD,McDonald's Corporation,Consumer Cyclical,Restaurants
+SBUX,Starbucks Corporation,Consumer Cyclical,Restaurants
+F,Ford Motor Company,Consumer Cyclical,Auto Manufacturers
+GM,General Motors Company,Consumer Cyclical,Auto Manufacturers
+T,AT&T Inc.,Communication Services,Telecom Services
+VZ,Verizon Communications Inc.,Communication Services,Telecom Services
+NEE,NextEra Energy Inc.,Utilities,Utilities - Regulated Electric
+DUK,Duke Energy Corporation,Utilities,Utilities - Regulated Electric
+SO,The Southern Company,Utilities,Utilities - Regulated Electric
+SPY,SPDR S&P 500 ETF Trust,ETF,Index Fund
+QQQ,Invesco QQQ Trust,ETF,Index Fund
+IWM,iShares Russell 2000 ETF,ETF,Index Fund
+VTI,Vanguard Total Stock Market ETF,ETF,Index Fund
+GLD,SPDR Gold Shares,ETF,Commodities
